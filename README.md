@@ -1,4 +1,7 @@
-# Data-Analysis-with-SQL
+<h1 align="center"> Data analysis with SQL </h1>
+<p align="center"> 
+  <img src="	https://particular.net/images/blog/2020/sql.jpg" alt="Sample signal" width="70%" height="70%">
+</p>
 In today's highly competitive job market, organizations are constantly seeking efficient and effective ways to identify, attract, and retain top talent. One of the critical components of this process is recruitment, which involves the identification and selection of suitable candidates for various job positions. To streamline and optimize their recruitment efforts, many companies rely on data-driven approaches and advanced analytics. These approaches enable organizations to make informed decisions, reduce recruitment costs, and enhance the overall quality of their workforce.
 
 In this context, the "RAILSWARE_APPLICANT" dataset serves as a valuable resource for understanding and analyzing recruitment activities within a specific organization. The dataset captures a wide range of information related to applicants, positions, application dates, recruitment stages, applicant statuses, recruiters, countries of origin, application names, and salary details. Each entry in the dataset represents a unique recruitment event, providing a comprehensive view of the organization's recruitment history.
