@@ -2,19 +2,52 @@
 <p align="center"> 
   <img src="https://www.naveedulhaq.com/wp-content/uploads/2022/05/sql-1024x1001.jpg" alt="Sample signal" width="30%" height="30%">
 </p>
-In today's highly competitive job market, organizations are constantly seeking efficient and effective ways to identify, attract, and retain top talent. One of the critical components of this process is recruitment, which involves the identification and selection of suitable candidates for various job positions. To streamline and optimize their recruitment efforts, many companies rely on data-driven approaches and advanced analytics. These approaches enable organizations to make informed decisions, reduce recruitment costs, and enhance the overall quality of their workforce.
 
-In this context, the "RAILSWARE_APPLICANT" dataset serves as a valuable resource for understanding and analyzing recruitment activities within a specific organization. The dataset captures a wide range of information related to applicants, positions, application dates, recruitment stages, applicant statuses, recruiters, countries of origin, application names, and salary details. Each entry in the dataset represents a unique recruitment event, providing a comprehensive view of the organization's recruitment history.
+## Introduction
 
-# Objective
-The primary objective of this analysis is to gain actionable insights from the "RAILSWARE_APPLICANT" dataset to address key recruitment-related challenges and opportunities. The following problem statement outlines the specific areas of interest:
-- Recruitment Performance Evaluation: The dataset contains information about various recruiters and their activities. We aim to evaluate the performance of each recruiter by answering questions such as:
-  - How many applicants did each recruiter successfully onboard?
-  - What is the distribution of recruited applicants by country?
-- Temporal Analysis: Understanding the temporal aspects of recruitment can provide valuable insights. I checked for:
-  - Identify trends in recruitment over months or years.
-  - Determine which months or seasons experience higher recruitment activity.
-  - Analyze any seasonality or patterns in recruitment.
-- Salary Analysis: Salary information is crucial for attracting and retaining top talent. We intend to:
-  - Calculate salary statistics, such as average, sum.
-  - Explore how salaries vary by position and country.
+In today's highly competitive job market, organizations strive to make informed decisions in their recruitment processes. To facilitate this, an in-depth analysis of the "RAILSWARE_APPLICANT" dataset has been conducted. This report will present key insights and trends gleaned from various SQL queries applied to the dataset. The dataset includes information about job applicants, their profiles, application stages, salaries, recruiters, and more. By leveraging SQL queries, we aim to provide actionable insights to assist in optimizing recruitment strategies and understanding applicant dynamics.
+
+### Applicant Demographics and Salaries
+
+To begin our analysis, we explored the demographic distribution of applicants and their average salaries. This information is crucial for understanding the talent pool and compensation expectations.
+- **Average Salary by Country:**
+   - This query revealed the average salaries of applicants grouped by their respective countries.
+   - Key Finding: Applicants from certain countries may have different salary expectations, allowing recruiters to tailor their compensation packages accordingly.
+
+- **Average Salary by Position and Application Status:**
+   - We examined the average salaries for different job positions based on the application status (e.g., accepted, rejected).
+   - Key Finding: Understanding the relationship between position and application status helps in assessing the competitiveness of different roles.
+
+### Recruitment Performance
+
+Recruiters play a pivotal role in attracting and hiring top talent. Analyzing recruiter performance can provide insights into their effectiveness in the hiring process.
+
+- **Average Salary by Recruiter:**
+   - This query computed the average salaries associated with each recruiter.
+   - Key Finding: Recognizing which recruiters tend to attract candidates with certain salary expectations can guide future recruitment strategies.
+
+- **Number of Applicants by Recruiter and Position:**
+   - We examined the number of applicants handled by each recruiter for various job positions.
+   - Key Finding: Identifying recruiters' strengths in particular roles allows for optimized allocation of resources.
+
+- **Number of Applicants by Recruiter and Application Status:**
+   - This query highlighted the number of applicants managed by each recruiter, categorized by application status.
+   - Key Finding: Assessing recruiters' success rates in different stages of the hiring process aids in identifying areas for improvement.
+
+### Application Dynamics and Trends
+
+Understanding how applications progress and how they vary over time can help recruiters make more informed decisions.
+
+- **Number of Applicants by Application Status and Month:**
+   - We explored the number of applicants at different application stages over time.
+   - Key Finding: Recognizing seasonal trends in application statuses assists in resource planning and expectations management.
+
+- **Total Salary by Month:**
+   - This query calculated the total salaries paid out each month.
+   - Key Finding: Identifying peak salary expenditure months is vital for budgeting and resource allocation.
+
+### Geographic and Role-based Insights
+
+- **Average Salary by Recruiter and Country:**
+   - This query provided insights into the average salaries associated with recruiters and specific countries.
+   - Key Finding: Understanding geographical salary differences can help in tailoring recruitment strategies to different regions.
