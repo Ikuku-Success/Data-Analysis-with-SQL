@@ -1,6 +1,6 @@
 <h1 align="center"> Data analysis with SQL </h1>
 <p align="center"> 
-  <img src="	https://particular.net/images/blog/2020/sql.jpg" alt="Sample signal" width="70%" height="70%">
+  <img src="https://www.naveedulhaq.com/wp-content/uploads/2022/05/sql-1024x1001.jpg" alt="Sample signal" width="30%" height="30%">
 </p>
 In today's highly competitive job market, organizations are constantly seeking efficient and effective ways to identify, attract, and retain top talent. One of the critical components of this process is recruitment, which involves the identification and selection of suitable candidates for various job positions. To streamline and optimize their recruitment efforts, many companies rely on data-driven approaches and advanced analytics. These approaches enable organizations to make informed decisions, reduce recruitment costs, and enhance the overall quality of their workforce.
 
