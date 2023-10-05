@@ -1,0 +1,224 @@
+﻿applicantid,position1,application_date,stage,status,recruiter,country,applicant_name,salary
+2738,1001,10/1/2018,Test task,lost,Sheldon Cooper,Sweden,jagjit  Pawłowski,1300
+2740,2005,10/1/2018,Application,lost,Leslie Winkle,South Korea,Anton Trukhanov  Kucherenko,1000
+2742,3001,10/2/2018,Profile review,lost,Raj Koothrappali,Poland,Rudolf  Usen,100
+2744,3002,10/3/2018,Application,open,Howard Wolowitz,Canada,Oleksii  Rutledge,1300
+2745,1001,10/3/2018,Profile review,lost,Sheldon Cooper,Poland,Katarzyna  Korshun,3600
+2746,1001,10/3/2018,Test task,lost,Sheldon Cooper,Brazil,David  Łagodzińska,2800
+2747,2005,10/3/2018,Application,lost,Leslie Winkle,France,Mark Anthony  Raso,1000
+2752,1003,10/5/2018,Profile review,lost,Sheldon Cooper,United States,Yurii  Deundiak,1900
+2753,4001,10/6/2018,Profile review,lost,Raj Koothrappali,United Kingdom,Yaroslav  Damian,1800
+2754,4001,10/7/2018,Profile review,lost,Raj Koothrappali,Germany,Karolina  Kochina,1300
+2755,1001,10/7/2018,Test task,lost,Sheldon Cooper,South Korea,Dmytro  Wold,2600
+2762,4001,10/8/2018,Profile review,lost,Raj Koothrappali,South Korea,MALGORZATA  Sobko,1000
+2763,1003,10/8/2018,Profile review,lost,Sheldon Cooper,South Korea,Feby Elsa  Varnin,2700
+2764,1001,10/8/2018,RPI,lost,Sheldon Cooper,France,Neil Simon  Álvarez Solano,2200
+2766,2005,10/8/2018,Application,lost,Leslie Winkle,Ukraine,Halyna  Kovalchuk,700
+2767,1001,10/8/2018,Offer,won,Sheldon Cooper,United Kingdom,Grzegorz   Kovalivska,2500
+2768,1001,10/9/2018,Profile review,lost,Sheldon Cooper,Poland,Andriy  Byno,800
+2769,4001,10/9/2018,Profile review,lost,Raj Koothrappali,United States,Alyona  Aslanov,2900
+2770,2005,10/9/2018,Application,lost,Leslie Winkle,India,Alexander  Amoah,800
+2771,3002,10/10/2018,Profile review,lost,Raj Koothrappali,Germany,Sasha  Durkalec,2000
+2772,3002,10/10/2018,Application,open,Howard Wolowitz,Brazil,Kinga  Polishchuk,2500
+2773,2005,10/10/2018,Application,lost,Leslie Winkle,France,Viktor  Klacz,800
+2774,3002,10/10/2018,Test task,lost,Raj Koothrappali,Sweden,Filimowicz  Lysach,2000
+2775,2005,10/10/2018,Application,lost,Leslie Winkle,Spain,Andrii  Partyko,1300
+2776,2005,10/10/2018,Application,lost,Leslie Winkle,Canada,Alessandro  Andreichenko,500
+2780,5003,10/11/2018,Profile review,lost,Sheldon Cooper,Sweden,Oleksii  Knap,1000
+2791,1001,10/12/2018,Offer,won,Sheldon Cooper,Sweden,Haseeb  Yerebakan,3100
+2793,1001,10/13/2018,Full Day,lost,Sheldon Cooper,United States,Deeksha  Walczak,2700
+2794,2005,10/15/2018,Application,lost,Leslie Winkle,United Kingdom,Alina   Rao,2000
+2800,1003,10/18/2018,Profile review,lost,Sheldon Cooper,Ukraine,Makesi  Ropotan,1600
+2801,3002,10/20/2018,Profile review,lost,Leslie Winkle,Ukraine,Petya  Matviienko,6000
+2804,5003,10/22/2018,Profile review,lost,Leslie Winkle,Spain,Dmytro  Efimov,3300
+2805,3002,10/22/2018,Application,open,Howard Wolowitz,Spain,Volodymyr  Klepacki,3300
+2806,1001,10/23/2018,Test task,lost,Sheldon Cooper,Poland,Diana  Ilczyniak,3000
+2811,5003,10/25/2018,Profile review,lost,Leslie Winkle,Ukraine,Yacoub  Wąsowicz,200
+2812,5001,10/25/2018,Prescreen call,lost,Leslie Winkle,Netherlands,Priyanka  Filatov,500
+2813,1001,10/25/2018,Offer,lost,Sheldon Cooper,Poland,Mark  Wicher,2900
+2814,5001,10/25/2018,Application,lost,Leslie Winkle,Germany,Victoria  Ustymenko,1300
+2816,5001,10/26/2018,Test task,lost,Leslie Winkle,India,Ashish  Brown,1600
+2817,3002,10/27/2018,Profile review,lost,Raj Koothrappali,Ukraine,Elzbieta  Ahieieva,6000
+2818,5001,10/28/2018,Test task,lost,Leslie Winkle,South Korea,Tania  Deev,1000
+2820,5003,10/29/2018,Profile review,lost,Leslie Winkle,India,Maryna  Kozlowski,6000
+2821,5002,10/29/2018,RPI,lost,Leslie Winkle,Germany,Michael   Palinchak,800
+2822,5002,10/29/2018,Test task,lost,Leslie Winkle,Germany,Igor  Sahu,500
+2823,5002,10/29/2018,Application,lost,Leslie Winkle,France,Franco  Primov,700
+2826,1001,10/29/2018,Profile review,lost,Sheldon Cooper,Poland,Valeriia  Iwaszuk,3300
+2832,1003,10/30/2018,Profile review,lost,Sheldon Cooper,Spain,Bogusia  Marchenko,2300
+2833,1001,10/31/2018,Application,lost,Sheldon Cooper,Brazil,Natalia  Kamińska,7200
+2835,1003,10/31/2018,Profile review,lost,Sheldon Cooper,Netherlands,Vitaliy  Burzynski,6000
+2837,1001,11/1/2018,Profile review,lost,Sheldon Cooper,Ukraine,Roberto  Maleyev,4200
+2838,6001,11/1/2018,Profile review,lost,Raj Koothrappali,India,Sergey   Sharma,6500
+2839,6001,11/2/2018,Test task,lost,Raj Koothrappali,Spain,Serhiy  Kornieieva,6000
+2840,6001,11/2/2018,Profile review,lost,Raj Koothrappali,India,Robert  Roshkovych,6000
+2841,6001,11/2/2018,Profile review,lost,Raj Koothrappali,Ukraine,Ihor   Bekric,6000
+2842,5001,11/2/2018,Profile review,lost,Leslie Winkle,Poland,Rudolf  Świszcz,1600
+2844,6001,11/4/2018,Prescreen call,lost,Raj Koothrappali,India,Ievgeniia  Kushnarenko,3900
+2845,6001,11/4/2018,Test task,lost,Raj Koothrappali,Canada,Tim  Tous Bercovich,3300
+2846,6001,11/5/2018,Prescreen call,lost,Raj Koothrappali,Poland,Srivalli  Przada,3900
+2847,6001,11/5/2018,Test task,lost,Raj Koothrappali,Canada,Rafal  ramakrishnan,2900
+2848,6001,11/5/2018,Profile review,lost,Raj Koothrappali,United Kingdom,Kirill  Moroz,4600
+2852,5003,11/7/2018,Profile review,lost,Leslie Winkle,India,Svetlana  Sani,1600
+2856,1001,11/7/2018,Profile review,lost,Sheldon Cooper,Netherlands,Valerii  Hnidenko,4900
+2857,6001,11/7/2018,Profile review,lost,Raj Koothrappali,Brazil,Sivan  Singh,3300
+2858,6001,11/7/2018,Profile review,lost,Raj Koothrappali,United Kingdom,Alina  Krukovets,1000
+2859,6001,11/7/2018,Profile review,lost,Raj Koothrappali,Netherlands,Janusz  Nikitiuk,6500
+2862,5001,11/8/2018,Test task,lost,Leslie Winkle,South Korea,Piotr  Kunin,2300
+2863,5002,11/8/2018,Profile review,lost,Raj Koothrappali,United States,Jakub  Gudzenko,600
+2865,6001,11/8/2018,Profile review,lost,Raj Koothrappali,Germany,Yurii  Urmantsev,8500
+2866,5001,11/8/2018,Offer,won,Leslie Winkle,United Kingdom,Daniel  Melnychuk,1600
+2867,6001,11/9/2018,Prescreen call,lost,Raj Koothrappali,France,Olga  Sowa,4600
+2868,6001,11/9/2018,Profile review,lost,Raj Koothrappali,Spain,Viktor  Kaya,3600
+2869,1001,11/9/2018,Profile review,lost,Sheldon Cooper,Poland,Precious  Palden,2000
+2871,6001,11/9/2018,Test task,lost,Raj Koothrappali,Poland,Bryan  Pankratova,4200
+2872,6001,11/10/2018,Test task,lost,Raj Koothrappali,South Korea,Dipakkumar  Gutsal,3800
+2873,1001,11/10/2018,Test task,lost,Sheldon Cooper,Brazil,Dmytro  Ivashkiv,1600
+2875,5002,11/12/2018,Profile review,lost,Leslie Winkle,Netherlands,Maciej  Leger,2000
+2876,5003,11/12/2018,Application,lost,Leslie Winkle,France,Roman  Nallathambi,1600
+2877,5002,11/12/2018,Profile review,lost,Leslie Winkle,United States,Shwetha Ramnath  Arosemena,700
+2878,5001,11/12/2018,Profile review,lost,Leslie Winkle,Brazil,Alexandra  Pirus,2600
+2879,6001,11/12/2018,Profile review,lost,Raj Koothrappali,Singapore,Yu  Sedletsky,6200
+2880,6001,11/12/2018,Profile review,lost,Raj Koothrappali,Singapore,Vladyslav  Perek,6000
+2881,5001,11/12/2018,Profile review,lost,Leslie Winkle,Poland,Zaal  Gartvich,3300
+2882,5001,11/12/2018,Profile review,lost,Leslie Winkle,Sweden,Chaz  Lysiuk,700
+2883,5002,11/13/2018,Profile review,lost,Leslie Winkle,Canada,Dmitriy  Wysocki,1100
+2884,5002,11/13/2018,Profile review,lost,Leslie Winkle,Brazil,Anton   Kuznetsov,4000
+2885,5002,11/13/2018,Profile review,lost,Leslie Winkle,Brazil,Karolina   Boiko,1000
+2886,5001,11/13/2018,Profile review,lost,Leslie Winkle,Singapore,Max  Streletska,1000
+2887,5002,11/13/2018,Profile review,lost,Leslie Winkle,Ukraine,Ashish  Miskiv,2300
+2888,1003,11/13/2018,Profile review,lost,Sheldon Cooper,United States,Iryna  Eid,3300
+2889,5001,11/13/2018,Application,lost,Leslie Winkle,Ukraine,Anubhav  Primov,6000
+2890,6001,11/14/2018,Test task,lost,Raj Koothrappali,Brazil,JAVIER  Primov,2700
+2901,1001,11/14/2018,Test task,lost,Sheldon Cooper,Brazil,Manuel  kudale,2600
+2902,6001,11/14/2018,Profile review,lost,Raj Koothrappali,Spain,Anwar   Forma,6900
+2903,6001,11/14/2018,Profile review,lost,Raj Koothrappali,United Kingdom,Matteo   Usman,1300
+2904,5003,11/14/2018,Application,lost,Leslie Winkle,United Kingdom,Vitaliy  Ropotan,2900
+2905,6001,11/14/2018,Profile review,lost,Raj Koothrappali,Germany,Andrey  Lisovol,3300
+2906,6001,11/15/2018,Profile review,lost,Raj Koothrappali,United States,Aleksandr  Irlik,6500
+2907,5001,11/15/2018,Application,lost,Leslie Winkle,Germany,Alexandra  Gartvich,6000
+2908,5003,11/16/2018,Profile review,lost,Leslie Winkle,Singapore,Shubham  Fedorenko,1200
+2909,1003,11/16/2018,Profile review,lost,Sheldon Cooper,United Kingdom,Anna  Lyakh,1300
+2912,5002,11/16/2018,Application,lost,Leslie Winkle,Ukraine,Andriy  Holoborodko,1600
+2913,6001,11/16/2018,Profile review,lost,Raj Koothrappali,Canada,Edward  Bugaievskyi,4400
+2915,1001,11/18/2018,Test task,lost,Sheldon Cooper,Singapore,Olga  Bielanska,800
+2917,5003,11/18/2018,Profile review,lost,Sheldon Cooper,Germany,Muhammad Rajib  Morrow,6000
+2918,1001,11/18/2018,Profile review,lost,Sheldon Cooper,Netherlands,Olena  Maruniak,1000
+2919,5001,11/19/2018,Application,lost,Leslie Winkle,Canada,Aleksandra  Borys,700
+2921,1003,11/19/2018,Profile review,lost,Sheldon Cooper,Singapore,Lucas  Tretiak,2800
+2922,6001,11/20/2018,Profile review,lost,Raj Koothrappali,France,Petro  Khatnyuk,6500
+2923,6001,11/20/2018,Profile review,lost,Raj Koothrappali,Ukraine,Syed   Rybarski,3300
+2924,5001,11/20/2018,Application,lost,Leslie Winkle,United States,Malhar  Zhukov,2000
+2925,1003,11/20/2018,Profile review,lost,Sheldon Cooper,Germany,Olga  Pankratov,3600
+2926,5002,11/21/2018,Test task,lost,Leslie Winkle,Netherlands,Timothy  Atamanyuk,1000
+2928,1001,11/21/2018,Profile review,lost,Sheldon Cooper,United States,Andrew  Priyadharshini  M,5200
+2929,5001,11/22/2018,Test task,lost,Leslie Winkle,France,Karina  Suprunenko,1400
+2930,6002,11/22/2018,Profile review,lost,Raj Koothrappali,Poland,Shashank  REDDY MARAPELLI,1400
+2931,6002,11/22/2018,Profile review,lost,Raj Koothrappali,Netherlands,Roman  Pai,2300
+2932,6001,11/23/2018,Profile review,lost,Raj Koothrappali,France,Michael  Kovalov,9100
+2933,6001,11/23/2018,Profile review,lost,Raj Koothrappali,United Kingdom,Anshu   Ciesielski,9800
+2934,1002,11/24/2018,Profile review,lost,Leslie Winkle,South Korea,Lyu  Rashevska,1600
+2935,1002,11/24/2018,Profile review,lost,Leslie Winkle,Poland,Olga  Zdorik,1000
+2936,1002,11/24/2018,Profile review,lost,Leslie Winkle,Brazil,Alina   Saloid,2500
+2937,5001,11/24/2018,Profile review,lost,Leslie Winkle,Brazil,Alexander  Sowa,1000
+2939,5001,11/25/2018,Profile review,lost,Leslie Winkle,Poland,Karthikeyan   Skorobogataya,1300
+2940,1002,11/25/2018,Application,lost,Leslie Winkle,Germany,Olena   Yu,300
+2941,5002,11/25/2018,Profile review,lost,Leslie Winkle,Sweden,Patrycja   Sharma,3900
+2943,1001,11/25/2018,Offer,won,Sheldon Cooper,Spain,Euvhen  Navarro,1800
+2944,1002,11/26/2018,Profile review,lost,Leslie Winkle,United Kingdom,Mendhie Emmanuel  Davidson,2600
+2945,1001,11/26/2018,RPI,lost,Sheldon Cooper,India,Oksana  Matviieva,1600
+2946,1002,11/26/2018,Test task,lost,Leslie Winkle,Canada,Andrii  Belani,1000
+2947,1002,11/26/2018,Application,lost,Leslie Winkle,Singapore,Mikhail  Ivantsova,800
+2948,6002,11/26/2018,Profile review,lost,Raj Koothrappali,Spain,Valeria  Orlova,3300
+2949,1002,11/26/2018,Test task,lost,Leslie Winkle,India,Vadim  Polishchuk,1600
+2952,1001,11/26/2018,Offer,lost,Sheldon Cooper,India,Aliona  Chmel,2800
+2953,1002,11/26/2018,Profile review,lost,Leslie Winkle,Singapore,Kirill  Ras,1000
+2954,6001,11/27/2018,Prescreen call,lost,Raj Koothrappali,Ukraine,Alexander  Negrín,5200
+2955,1002,11/27/2018,Profile review,lost,Leslie Winkle,Singapore,Oleksandra  Arosemena,1000
+2957,1001,11/27/2018,RPI,lost,Sheldon Cooper,Canada,Alan  Hudz,3300
+2958,6001,11/27/2018,RPI,lost,Raj Koothrappali,France,Andrii  Maksymets,3300
+2959,1001,11/28/2018,RPI,lost,Sheldon Cooper,Singapore,Vasileios  Urzyńska,6000
+2961,1002,11/28/2018,RPI,lost,Leslie Winkle,Brazil,Liubov  Simon Dino,1300
+2963,5001,11/28/2018,RPI,lost,Leslie Winkle,Spain,Jeffrey  Martynenko,2400
+2965,1001,11/29/2018,Offer,won,Sheldon Cooper,France,Brandon  Shapirenko,2700
+2966,5001,11/29/2018,Test task,lost,Leslie Winkle,Germany,Mariusz   Bibik,1100
+2967,1001,11/29/2018,Profile review,lost,Sheldon Cooper,Singapore,Goran  Trachim,4600
+2968,1002,11/29/2018,Profile review,lost,Leslie Winkle,United Kingdom,Ewa  Jackson,1000
+2969,6001,11/30/2018,Profile review,lost,Raj Koothrappali,Netherlands,Victor  Risteska Taseski,4600
+2970,5001,11/30/2018,Profile review,lost,Leslie Winkle,United Kingdom,Olha  Zhytnyk,3300
+2972,5001,11/30/2018,Profile review,lost,Leslie Winkle,Canada,Vitaliy  D ghosh,3300
+2973,6001,12/1/2018,Profile review,lost,Raj Koothrappali,Ukraine,Kushagra  R,6500
+2974,5003,12/1/2018,Profile review,lost,Leslie Winkle,South Korea,Sergey  Ievdokymenko,6000
+2975,5001,12/2/2018,Profile review,lost,Leslie Winkle,France,Piotr  Shport,2000
+2976,1003,12/2/2018,Profile review,lost,Leslie Winkle,Ukraine,Elvin  M. Ortiz,4200
+2977,5001,12/2/2018,Profile review,lost,Leslie Winkle,Canada,Katerina Risteska   Tymoshenko,1600
+2978,6001,12/3/2018,Profile review,lost,Raj Koothrappali,Sweden,Michał  Popov,6000
+2979,1001,12/3/2018,Test task,lost,Sheldon Cooper,United States,António  Kovner,1400
+2980,1003,12/3/2018,Profile review,open,Sheldon Cooper,United States,Kushagra  ZAI,3900
+2981,1001,12/3/2018,Profile review,lost,Sheldon Cooper,Netherlands,Vladyslav   Tyulpa,3900
+2982,5001,12/3/2018,Profile review,lost,Leslie Winkle,India,Sebastian  Al Nasser,1700
+2983,1002,12/3/2018,Profile review,lost,Leslie Winkle,Canada,Lillian  Yusko,2100
+2984,1001,12/3/2018,Profile review,lost,Leslie Winkle,United Kingdom,Iuliia  Navarro,5400
+2985,1002,12/3/2018,Profile review,lost,Leslie Winkle,Canada,Ras  Barrientos,2000
+2987,1001,12/4/2018,Test task,lost,Sheldon Cooper,France,Tetiana   Dadashi,2900
+2990,6001,12/4/2018,Profile review,lost,Raj Koothrappali,Ukraine,Anton  Dzhavala,9800
+2991,1002,12/4/2018,Application,lost,Leslie Winkle,South Korea,Robert  Tustanovska,700
+2992,1003,12/4/2018,Profile review,lost,Sheldon Cooper,Sweden,Alyona  singh,2900
+2996,5001,12/5/2018,Profile review,lost,Leslie Winkle,Brazil,Umer  Yefimova,2000
+2997,1001,12/5/2018,Full Day,lost,Sheldon Cooper,United States,Denis  ali,2700
+2998,5001,12/5/2018,Profile review,lost,Leslie Winkle,Spain,Imtiaz Aziz  Iorgacheva,700
+2999,5002,12/6/2018,Test task,lost,Leslie Winkle,Singapore,Victoria   Hrynchuk,800
+3000,5002,12/6/2018,Profile review,lost,Leslie Winkle,Poland,Vladimir  Kpemi-Ogokimi,1000
+3001,1002,12/6/2018,Application,lost,Leslie Winkle,Brazil,Victoria  Rajib Hassan,1000
+3002,6001,12/6/2018,Test task,lost,Raj Koothrappali,United States,Nikolay  Omelyanyuk,3400
+3003,1001,12/7/2018,Profile review,lost,Sheldon Cooper,Canada,Srivalli  Bletsas,1300
+3004,1002,12/7/2018,Profile review,lost,Leslie Winkle,Singapore,Michael  Rao,3500
+3005,1002,12/7/2018,Application,lost,Leslie Winkle,Spain,Olga  Rysdahl,1600
+3006,1001,12/7/2018,Profile review,lost,Sheldon Cooper,Ukraine,Iuliia  Khodyriev,1600
+3007,1002,12/8/2018,Profile review,lost,Sheldon Cooper,United Kingdom,Onat  Bodlev,2600
+3008,1002,12/9/2018,Profile review,lost,Leslie Winkle,Ukraine,Sumit  Tertyshnyi,2300
+3009,1001,12/10/2018,RPI,lost,Sheldon Cooper,Ukraine,Eduard  Buka,1600
+3010,6001,12/10/2018,Profile review,lost,Raj Koothrappali,Netherlands,Zlatan   Tiwari,6500
+3011,6002,12/10/2018,Profile review,lost,Raj Koothrappali,France,Dmitry  Aleem,2700
+3012,1001,12/10/2018,Test task,lost,Sheldon Cooper,Sweden,Oleh   Fytsyk,3100
+3013,1001,12/11/2018,Test task,lost,Sheldon Cooper,India,Andrey  Herashchenko,2900
+3024,5003,12/12/2018,Profile review,lost,Leslie Winkle,United Kingdom,Yaroslav   Zamula,6000
+3025,5002,12/13/2018,Profile review,lost,Leslie Winkle,South Korea,Michał  Susiak,700
+3026,1003,12/13/2018,Profile review,lost,Sheldon Cooper,Germany,Anna  saleba,3300
+3027,1003,12/14/2018,Profile review,lost,Leslie Winkle,Singapore,Dmitriy  Gothi,6000
+3029,6001,12/14/2018,Profile review,lost,Raj Koothrappali,Sweden,Oleksandra  Chekh,3400
+3030,1002,12/16/2018,Profile review,lost,Leslie Winkle,United Kingdom,Oleksii  Sidko,4600
+3032,1003,12/16/2018,Profile review,lost,Sheldon Cooper,Spain,Paweł  Zhylina,3300
+3033,1001,12/17/2018,Profile review,lost,Leslie Winkle,Poland,Elina  Rippa,6000
+3034,1001,12/17/2018,Full Day,lost,Sheldon Cooper,Spain,Tushar   Chikunova,2800
+3035,1001,12/18/2018,Profile review,lost,Sheldon Cooper,Singapore,Tamara   Shchukin,1300
+3036,6002,12/18/2018,Profile review,lost,Raj Koothrappali,Spain,Yevhen   Savytska,3900
+3037,5003,12/18/2018,Profile review,lost,Leslie Winkle,United States,Yana  Khusuma,500
+3038,5003,12/19/2018,Profile review,lost,Leslie Winkle,South Korea,Andrii  Tsaruk,1000
+3039,5003,12/19/2018,Prescreen call,lost,Leslie Winkle,Poland,Alina  Martynenko,1100
+3040,5003,12/19/2018,Application,lost,Leslie Winkle,United States,Pawel  Shevchenko,500
+3041,5003,12/19/2018,Application,lost,Leslie Winkle,Brazil,VladaV  Brynza,1300
+3042,1002,12/20/2018,Test task,lost,Sheldon Cooper,United States,Ievgen  Zambrano,3300
+3045,1003,12/20/2018,Profile review,lost,Sheldon Cooper,Poland,Mykhailo  Okeke,1700
+3046,1002,12/22/2018,Application,lost,Leslie Winkle,Netherlands,Anthony  Badyka,500
+3048,1002,12/23/2018,Application,lost,Leslie Winkle,Sweden,Sana  Gilbertson,700
+3049,6002,12/24/2018,Profile review,lost,Raj Koothrappali,Canada,Alexandre  Truskavetska,3900
+3050,5003,12/24/2018,Profile review,lost,Leslie Winkle,United States,Sergey  Shulgesterova,500
+3051,1001,12/24/2018,Profile review,lost,Sheldon Cooper,United States,Anna  Sudan,3300
+3052,6002,12/25/2018,Profile review,lost,Raj Koothrappali,United Kingdom,Alina   Hrynchuk,2000
+3053,1001,12/27/2018,Profile review,lost,Leslie Winkle,South Korea,Ilya  Manuylov,2000
+3054,6002,12/27/2018,Test task,lost,Raj Koothrappali,Netherlands,Vladimir  Beliyeva,1300
+3055,5003,12/27/2018,Application,lost,Leslie Winkle,India,Vasyl  Gurjar,6000
+3056,5003,12/28/2018,Profile review,lost,Leslie Winkle,Germany,Andriy  Vorobyova,1000
+3057,1001,12/28/2018,Application,lost,Leslie Winkle,Ukraine,Heidi  Lishchynovskyi,2300
+3058,5002,12/28/2018,Profile review,lost,Leslie Winkle,Germany,Anatolii  Leusenko,1300
+3059,1003,12/30/2018,Profile review,lost,Leslie Winkle,India,Mariusz  Kruhlikova,3900
+3061,6001,12/30/2018,Profile review,lost,Raj Koothrappali,Netherlands,Paulina  Fediaiev,6000
+3062,6002,12/31/2018,Profile review,lost,Raj Koothrappali,Poland,Nikolay  Duklewski,3300
+3063,6002,1/1/2019,Profile review,lost,Raj Koothrappali,India,Yuliia  Stadnichenko,2300
+3065,1001,1/2/2019,Profile review,lost,Leslie Winkle,United Kingdom,Mohsun  Anzel,6000
+3066,5003,1/2/2019,Application,lost,Leslie Winkle,Singapore,Olga  Koretsky,500
+3067,5003,1/2/2019,Profile review,lost,Leslie Winkle,Spain,Serhii  Gapanyuk,700
+3068,5002,1/3/2019,Profile review,lost,Leslie Winkle,Brazil,Dima  Arosemena,600
+3069,5003,1/3/2019,Test task,lost,Leslie Winkle,Sweden,Miguel   Kumar,1000
+3070,5003,1/4/2019,Profile review,lost,Leslie Winkle,Sweden,Kostya  Agostino,1100
